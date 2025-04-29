@@ -10,7 +10,7 @@ Select an item and the app shows you how to get it!
 - Works offline (data is embedded into the app)
 
 ## 📥 Downloads
-- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Initial release with support for 3 items from Last Epoch
+- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Initial release with support for items from Last Epoch
 
 ## 🧑‍💻 Author
 by Kotington  
@@ -29,7 +29,7 @@ Feel free to contribute!
 - Работает без интернета (данные встроены в приложение)
 
 ## 📥 Скачать
-- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Первая версия с поддержкой 3 предметов из Last Epoch
+- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Первая версия с поддержкой предметов из Last Epoch
 
 ## 👨‍💻 Автор
 Kotington  
