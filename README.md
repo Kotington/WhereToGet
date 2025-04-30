@@ -1,5 +1,23 @@
 # WhereToGet
 
+#Built with Python and Tkinter, packaged as a standalone Windows .exe using PyInstaller.
+
+## 🛠 Build Instructions
+
+You can rebuild the application yourself using PyInstaller.
+
+### Step-by-step:
+
+1. Install dependencies
+   ```bash
+   pip install pyinstaller tk
+
+pyinstaller --noconfirm --onefile --windowed ^
+    --add-data "Last Epoch uniques.txt;." ^
+    --add-data "Last Epoch uniques (ru).txt;." ^
+    unique_item_picker.py
+
+
 A simple tool to help you find where to farm or obtain unique items in games like *Last Epoch*.  
 Select an item and the app shows you how to get it — even multiple items at once!
 
@@ -14,8 +32,7 @@ Select an item and the app shows you how to get it — even multiple items at on
 - Auto-saves selected items and language between sessions
 
 ## 📥 Downloads
-- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/v0.2) — Added Russian support, improved UI, fixed scrolling and multi-selection.
-- [v0.1](https://github.com/Kotington/WhereToGet/releases/tag/0.1) — Initial release with basic item lookup for Last Epoch
+- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/0.2) — Added Russian support, improved UI, fixed scrolling and multi-selection.
 
 ## 🧑‍💻 Author
 by Kotington  
@@ -39,8 +56,7 @@ Feel free to contribute!
 - Сохраняет выбранные предметы и язык между запусками
 
 ## 📥 Скачать
-- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/v0.2) — Добавлена поддержка русского языка, улучшен интерфейс, исправлен скроллинг и выбор нескольких предметов.
-- [v0.1](https://github.com/Kotington/WhereToGet/releases/tag/0.1) — Первая версия с базовым поиском предметов из Last Epoch
+- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/0.2) — Добавлена поддержка русского языка, улучшен интерфейс, исправлен скроллинг и выбор нескольких предметов.
 
 ## 👨‍💻 Автор
 Kotington  
