@@ -1,35 +1,46 @@
-# WhereToFarm
+# WhereToGet
 
 A simple tool to help you find where to farm or obtain unique items in games like *Last Epoch*.  
-Select an item and the app shows you how to get it!
+Select an item and the app shows you how to get it — even multiple items at once!
 
 ## 🚀 Features
 - Browse a list of unique items
 - Click on any item to see detailed methods of obtaining
+- Add multiple items to your selection
+- Remove items by clicking anywhere on the card
 - Search for items by name
+- Switch between **English** and **Russian** interface
 - Works offline (data is embedded into the app)
+- Auto-saves selected items and language between sessions
 
 ## 📥 Downloads
-- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Initial release with support for 3 items from Last Epoch
+- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/v0.2) — Added Russian support, improved UI, fixed scrolling and multi-selection.
+- [v0.1](https://github.com/Kotington/WhereToGet/releases/tag/0.1) — Initial release with basic item lookup for Last Epoch
 
 ## 🧑‍💻 Author
 by Kotington  
 Feel free to contribute!
 
+---
 
-# WhereToFarm
+# WhereToGet
 
 Простой инструмент, который поможет найти способы получения уникальных предметов в играх, таких как *Last Epoch*.  
-Выбери предмет — и программа покажет, как его получить!
+Выбери один или несколько предметов — и программа покажет, где их можно получить!
 
 ## 🚀 Возможности
 - Список уникальных предметов
-- Клик по предмету — показывает способы получения
+- Клик по карточке — показывает способы получения
+- Выбор **нескольких предметов** одновременно
+- Удаление предмета по клику на любую его часть
 - Поиск по названию
-- Работает без интернета (данные встроены в приложение)
+- Переключение между **русским и английским языком**
+- Работает без интернета (данные встроены в программу)
+- Сохраняет выбранные предметы и язык между запусками
 
 ## 📥 Скачать
-- [v0.1](https://github.com/YOUR_USERNAME/where-to-farm/releases/tag/v0.1) — Первая версия с поддержкой 3 предметов из Last Epoch
+- [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/v0.2) — Добавлена поддержка русского языка, улучшен интерфейс, исправлен скроллинг и выбор нескольких предметов.
+- [v0.1](https://github.com/Kotington/WhereToGet/releases/tag/0.1) — Первая версия с базовым поиском предметов из Last Epoch
 
 ## 👨‍💻 Автор
 Kotington  
