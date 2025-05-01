@@ -34,6 +34,10 @@ Select an item and the app shows you how to get it — even multiple items at on
 ## 📥 Downloads
 - [v0.2](https://github.com/Kotington/WhereToGet/releases/tag/0.2) — Added Russian support, improved UI, fixed scrolling and multi-selection.
 
+## Credits
+
+This project uses data sourced from [lastepochtools.com](https://lastepochtools.com). A huge thank you to their team for gathering and providing this information.
+
 ## 🧑‍💻 Author
 by Kotington  
 Feel free to contribute!
