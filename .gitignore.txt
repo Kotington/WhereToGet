@@ -1,0 +1,32 @@
+# Python specific
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Build artifacts
+dist/
+build/
+*.exe
+*.msi
+*.log
+.where_to_get_data/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/

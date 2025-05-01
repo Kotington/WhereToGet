@@ -1,0 +1,3358 @@
+[
+  {
+    "id": 0,
+    "name": "Calamity",
+    "type": "Helmet",
+    "unique_name": "Unique Jewelled Circlet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.67% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 6.67% chance"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Snowblind",
+    "type": "Helmet",
+    "unique_name": "Unique Gladiator Helmet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.67% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 6.67% chance"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Peak of the Mountain",
+    "type": "Helmet",
+    "unique_name": "Unique Iron Casque",
+    "obtained": [
+      "The Mountain Beneath (Lightless Arbor Dungeon)",
+      "Tier 1: 45% chance",
+      "Tier 2: 47% chance",
+      "Tier 3: 48% chance",
+      "Tier 4: 50% chance"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Yrun's Penance",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Broadsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Humming Bee",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Gladius",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Palarus's Sacred Light",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Broadsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rainbow Edge",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Falchion",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gladiator's Oath",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Broadsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Transcriber's Graver",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Dawn Blade",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Aurelis",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Longsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Weaver's Gift",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Longsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Scissor of Atropos",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Falchion",
+    "obtained": [
+      "Fateweaver Atropos (Lostwood Folly Woven Echo) - 30% chance (up to 45% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Naal's Tooth",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Serrated Tooth",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.85% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 0.82% chance"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Apogee of Frozen Light",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Longsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Eye of Reen",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Katana",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.78% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 1.22% chance"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chronostasis",
+    "type": "One-Handed Sword",
+    "unique_name": "Unique Dawn Blade",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Taste of Blood",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Rusted Cleaver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Cleaver Solution",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Rusted Cleaver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Beast King",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Wengari Axe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Tempest Maw",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Crescent Axe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Monument of Protection",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Marble Dedication",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hakar's Phoenix",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Eagle Wing",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 4.11% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.05% chance"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pact Severance",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Soul Harvester",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 6.85% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.76% chance"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Undisputed",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Dragonbone Axe",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 6.85% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.76% chance"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Eulogy of Blood",
+    "type": "One-Handed Axe",
+    "unique_name": "Unique Soul Harvester",
+    "obtained": [
+      "Formosus the Undying (Blood, Frost, and Death Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Nest of Nightmares",
+    "type": "One-Handed Mace",
+    "unique_name": "Unique Doom Star",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 22.22% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Renegade's Will",
+    "type": "One-Handed Mace",
+    "unique_name": "Unique Pick Hammer",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 22.22% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Bloodgeon",
+    "type": "One-Handed Mace",
+    "unique_name": "Unique Flanged Mace",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 11.11% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.76% chance"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Arek's Bones",
+    "type": "One-Handed Mace",
+    "unique_name": "Unique Ebertusk Club",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 22.22% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Drought's Release",
+    "type": "Dagger",
+    "unique_name": "Unique Kris",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.49% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Traitor's Tongue",
+    "type": "Dagger",
+    "unique_name": "Unique Kris",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.8% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 1.63% chance"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Jelkhor's Blast Knife",
+    "type": "Dagger",
+    "unique_name": "Unique Majasan Dagger",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.49% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Dragorath's Claw",
+    "type": "Dagger",
+    "unique_name": "Unique Rune Dagger",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.49% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Smoke Weaver",
+    "type": "Dagger",
+    "unique_name": "Unique Poignard",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 7.25% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 2.04% chance"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "The Ghost Maker",
+    "type": "Dagger",
+    "unique_name": "Unique Rune Dagger",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.49% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Fulgurite Shard",
+    "type": "Dagger",
+    "unique_name": "Unique Obsidian Dagger",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.49% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Firestarter's Torch",
+    "type": "Sceptre",
+    "unique_name": "Unique Brass Sceptre",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 21.83% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Hazelroot",
+    "type": "Sceptre",
+    "unique_name": "Unique Oak Sceptre",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 21.83% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Frozen Ire",
+    "type": "Sceptre",
+    "unique_name": "Unique Ice Sceptre",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 21.83% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Culnivar's Claim",
+    "type": "Sceptre",
+    "unique_name": "Unique Auric Sceptre",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 21.83% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Aberroth's Command",
+    "type": "Sceptre",
+    "unique_name": "Unique Obsidian Sceptre",
+    "obtained": [
+      "Harbinger of Defilement (Fall of the Outcasts Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "The Shattered Cycle",
+    "type": "Sceptre",
+    "unique_name": "Unique Obsidian Sceptre",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 6.11% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 2.12% chance"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Alchemist's Ladle",
+    "type": "Wand",
+    "unique_name": "Unique Rowan Wand",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 8.55% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 3.17% chance"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Reach of the Grave",
+    "type": "Wand",
+    "unique_name": "Unique Archive Wand",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 17.09% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Mad Alchemist's Ladle",
+    "type": "Wand",
+    "unique_name": "Unique Birch Wand",
+    "obtained": [
+      "Exiled Mage (Rune Prison encounters) - 1.25% chance (drop chance increases with area level and corruption)"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Cinder Song",
+    "type": "Wand",
+    "unique_name": "Unique Archive Wand",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 12.82% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 4.76% chance"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Triboelectra",
+    "type": "Wand",
+    "unique_name": "Unique Siren Wand",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 11.97% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 4.44% chance"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Abacus Rod",
+    "type": "Wand",
+    "unique_name": "Unique Archive Wand",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 17.09% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Marina's Lost Soul",
+    "type": "Wand",
+    "unique_name": "Unique Profane Wand",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 11.97% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 4.44% chance"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Wrongwarp",
+    "type": "Wand",
+    "unique_name": "Unique Crystal Wand",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 3.42% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 1.27% chance"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Dreamthorn",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Split Greatsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Orb Weaver's Fang",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Split Greatsword",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Battlemage's Endeavour",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Claymore",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "The Last Laugh",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Imperial Warblade",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Merophage",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Winged Blade",
+    "obtained": [
+      "Exiled Mage (Rune Prison encounters) - 1.25% chance (drop chance increases with area level and corruption)"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Volcanus",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Flamberge",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Spine of Malatros",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Flamberge",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 14.71% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 4.08% chance"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Torkrefin's Hunger",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Claymore",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 7.35% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 2.04% chance"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Clotho's Needle",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Giant Rapier",
+    "obtained": [
+      "Fateweaver Clotho (Lostwood Folly Woven Echo) - 30% chance (up to 45% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Alluvion",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Flamberge",
+    "obtained": [
+      "Lagon, God of Storms (Ending the Storm Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Black Blade of Chaos",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Odachi",
+    "obtained": [
+      "Harbinger of Chaos (Ending the Storm Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Eternal Eclipse",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Khopesh",
+    "obtained": [
+      "Rahyeh, The Black Sun (The Black Sun Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Leviathan Carver",
+    "type": "Two-Handed Sword",
+    "unique_name": "Unique Solarum Greatsword",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 4.41% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Sword or Dagger\" echo rewards) - 1.22% chance"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Harthenon's Vow",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Refuge Axe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 24.69% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Bone Harvester",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bearded Axe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 24.69% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Apathy's Maw",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Obsidian Axe",
+    "obtained": [
+      "Shade of Orobyss (Minimum corruption 50) - 25% chance (drop chance increases with extra corruption above 50 and is higher the further the echo is from the center)",
+      "Confluence of Oblivion Woven Echo (Minimum corruption 50) - 50% chance (drop chance increases with extra corruption above 50 and is higher the further the echo is from the center)"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Usurper's Mandate",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bone Scythe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 24.69% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Sword Catcher",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bardiche",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 9.88% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.41% chance"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Death's Embrace",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bone Scythe",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 3.7% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 0.53% chance"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Pyre of Affliction",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Fire Lich Scythe",
+    "obtained": [
+      "Fire Lich Cremorus (Soulfire Bastion Dungeon)",
+      "Tier 1: –",
+      "Tier 2: –",
+      "Tier 3: –",
+      "Tier 4: 12% chance"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Scales of Lemniscate",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bone Scythe",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 12.35% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.76% chance"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "World Splitter",
+    "type": "Two-Handed Axe",
+    "unique_name": "Unique Bardiche",
+    "obtained": [
+      "Harbinger of Hatred (The Black Sun Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Hammer of Lorent",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Great Mace",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Torch Of The Pontifex",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Maul",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Storm Breaker",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Great Mace",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Shadow Beacon",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Terror Mace",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Bhuldar's Wrath",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Titan Femur",
+    "obtained": [
+      "Volcanic Shaman (Spirits of Fire Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Event Horizon",
+    "type": "Two-Handed Mace",
+    "unique_name": "Unique Vault Crusher",
+    "obtained": [
+      "Harbinger of Destruction (Reign of Dragons Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Draalsting",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Glaive",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Phalanx",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Pike",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Sierpin's Fractal Tree",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Trident",
+    "obtained": [
+      "Exiled Mage (Rune Prison encounters) - 1.25% chance (drop chance increases with area level and corruption)"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Tu'rani's Bident",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Impaler",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Plague Dragon's Tongue",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Dragonslayer Glaive",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Lethal Concentration",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Jadebone Javelin",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Lament of the Lost Refuge",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Rat City Impaler",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Essence Weaver",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Obsidian Lance",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 13.16% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 3.51% chance"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Morditas' Reach",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Ice Spear",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 2.63% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 0.7% chance"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "The Judicator",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Dragonslayer Glaive",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.26% chance",
+      "Reign of Dragons Timeline (\"Unique or Set Axe Mace or Spear\" echo rewards) - 1.41% chance"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Trident of the Last Abyss",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Trident",
+    "obtained": [
+      "Harton's Husk (Fall of the Empire Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Bane of Winter",
+    "type": "Two-Handed Spear",
+    "unique_name": "Unique Deicide Lance",
+    "obtained": [
+      "Harbinger of Tyranny (The Age of Winter Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Bo's Anarchy",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Quarter Staff",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.56% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Curse of Perseverance",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Imperial Staff",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.56% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Reowyn's Fortress",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Travelling Staff",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.56% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Aberrant Call",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Spine Rod",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.56% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Plague Bearer's Staff",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Spine Rod",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.78% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 3.78% chance"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Aergon's Refuge",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Temple Staff",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 2.89% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 1.89% chance"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Blight of Lachesis",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Temple Staff",
+    "obtained": [
+      "Fateweaver Lachesis (Lostwood Folly Woven Echo) - 30% chance (up to 45% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Celestial Doom",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Abyssal Staff",
+    "obtained": [
+      "Harbinger of War (Blood, Frost, and Death Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Omnividence",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Abyssal Staff",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.16% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 0.76% chance"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Branch of Hallows",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Root Staff",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.78% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 3.78% chance"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Jasper's Searing Pride",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Bladed Staff",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.56% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 7.56% chance"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Wheel of Torment",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Abyssal Staff",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.78% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Staff or Sceptre\" echo rewards) - 3.78% chance"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Dragonflame Edict",
+    "type": "Two-Handed Staff",
+    "unique_name": "Unique Dragon Staff",
+    "obtained": [
+      "Emperor of Corpses (Reign of Dragons Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Hell Reach",
+    "type": "Bow",
+    "unique_name": "Unique ShortbowObtained from:",
+    "obtained": [
+      "Not found"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Shadow String",
+    "type": "Bow",
+    "unique_name": "Unique Birch Bow",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 4.6% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 2.96% chance"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Longshot",
+    "type": "Bow",
+    "unique_name": "Unique Imperial Bow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Talons of Valor",
+    "type": "Bow",
+    "unique_name": "Unique Longbow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 9.2% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 5.93% chance"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Dragonsong",
+    "type": "Bow",
+    "unique_name": "Unique Longbow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Uethrin's Stand",
+    "type": "Bow",
+    "unique_name": "Unique Birch Bow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Gathering Fury",
+    "type": "Bow",
+    "unique_name": "Unique Storm Bow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Flight of the First",
+    "type": "Bow",
+    "unique_name": "Unique Dreadthorn Bow",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 5.75% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 3.7% chance"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Acidfletch",
+    "type": "Bow",
+    "unique_name": "Unique Serpent Bow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Drelkor's Compass",
+    "type": "Bow",
+    "unique_name": "Unique Longbow",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 11.49% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Reign of Winter",
+    "type": "Bow",
+    "unique_name": "Unique Longbow",
+    "obtained": [
+      "Heorot (The Age of Winter Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Arrowguard",
+    "type": "Quiver",
+    "unique_name": "Unique Heavy Quiver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20.83% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Sanguine Hoard",
+    "type": "Quiver",
+    "unique_name": "Unique Nomad Quiver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20.83% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Troaka's Teeth",
+    "type": "Quiver",
+    "unique_name": "Unique Nomad Quiver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20.83% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Zeurial's Hunt",
+    "type": "Quiver",
+    "unique_name": "Unique Skalnir Quiver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 16.67% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 5.93% chance"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Nightbringer",
+    "type": "Quiver",
+    "unique_name": "Unique Spidersilk Quiver",
+    "obtained": [
+      "Harton's Husk (Fall of the Empire Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Crystalwind",
+    "type": "Quiver",
+    "unique_name": "Unique Steelweave Quiver",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 20.83% chance",
+      "Fall of the Outcasts Timeline (\"Unique or Set Bow or Quiver\" echo rewards) - 7.41% chance"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Phase Point",
+    "type": "Quiver",
+    "unique_name": "Unique Heavy Quiver",
+    "obtained": [
+      "Harbinger of Pride (The Stolen Lance Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "The Slab",
+    "type": "Shield",
+    "unique_name": "Unique Ironglass Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Close Call",
+    "type": "Shield",
+    "unique_name": "Unique Wooden Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Soul Bastion",
+    "type": "Shield",
+    "unique_name": "Unique Heater Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Cradle of the Erased",
+    "type": "Shield",
+    "unique_name": "Unique TargeObtained from:",
+    "obtained": [
+      "Not found"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Grim Constitution",
+    "type": "Shield",
+    "unique_name": "Unique Kite Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Sigeon's Reprisal",
+    "type": "Shield",
+    "unique_name": "Unique Bandit Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Life's Journey",
+    "type": "Shield",
+    "unique_name": "Unique Bandit Shield",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.91% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 3.91% chance"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Face of the Mountain",
+    "type": "Shield",
+    "unique_name": "Unique Stone Shield",
+    "obtained": [
+      "The Mountain Beneath (Lightless Arbor Dungeon)",
+      "Tier 1: –",
+      "Tier 2: –",
+      "Tier 3: 12% chance",
+      "Tier 4: 18% chance"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Moenia Mentis",
+    "type": "Shield",
+    "unique_name": "Unique Heater Shield",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Bastion of Honour",
+    "type": "Shield",
+    "unique_name": "Unique Old Kite Shield",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 0.78% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 0.78% chance"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Thornshell",
+    "type": "Shield",
+    "unique_name": "Unique Meruna Shell",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.81% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 7.81% chance"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Flayer's Pride",
+    "type": "Shield",
+    "unique_name": "Unique Rotskin Round Shield",
+    "obtained": [
+      "Abomination (Fall of the Outcasts Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Coral Aegis",
+    "type": "Shield",
+    "unique_name": "Unique Meruna Shell",
+    "obtained": [
+      "Lagon, God of Storms (Ending the Storm Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Countenance of Majasa",
+    "type": "Shield",
+    "unique_name": "Unique Ironglass Shield",
+    "obtained": [
+      "Majasa (Tomb of Vessels Woven Echo) - 100% chance"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Rahyeh's Light",
+    "type": "Shield",
+    "unique_name": "Unique Dawn Shield",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.56% chance",
+      "The Black Sun Timeline (\"Unique or Set Shield\" echo rewards) - 1.56% chance"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Bulwark of the Last Abyss",
+    "type": "Shield",
+    "unique_name": "Unique Ironglass Shield",
+    "obtained": [
+      "Harton's Husk (Fall of the Empire Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Faith of the Frozen",
+    "type": "Shield",
+    "unique_name": "Unique Frostbound Shield",
+    "obtained": [
+      "Heorot (The Age of Winter Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Horns of Uhkeiros",
+    "type": "Shield",
+    "unique_name": "Unique Mountain Shield",
+    "obtained": [
+      "Emperor of Corpses (Reign of Dragons Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Vial of Volatile Ice",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Glass Catalyst",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Chronicle of the Damned",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Leatherbound Tome",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Tolmat's Incorrect History of Eterra",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Leatherbound Tome",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Gordian Prism",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Glass Catalyst",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Rotmind",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Branded Skull",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Stygian Coal",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Soulmass",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Fragment of the Enigma",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Rune Stone",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Ignivar's Head",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Branded Skull",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Frey's Retreat",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Divine Instrument",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 10.1% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Scales of Eterra",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Divine Instrument",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.03% chance",
+      "The Stolen Lance Timeline (\"Unique or Set Wand or Catalyst\" echo rewards) - 1.9% chance"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Symbol of Demise",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Rune Stone",
+    "obtained": [
+      "Emperor of Corpses (Reign of Dragons Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "The Cuckoo",
+    "type": "Off-Hand Catalyst",
+    "unique_name": "Unique Avian Puppet",
+    "obtained": [
+      "Exiled Mage (Rune Prison encounters) - 0.75% chance (drop chance increases with area level and corruption)"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Arboreal Circuit",
+    "type": "Ring",
+    "unique_name": "Unique Silver Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Ashes of Mortality",
+    "type": "Ring",
+    "unique_name": "Unique Ruby Ring",
+    "obtained": [
+      "Fire Lich Cremorus (Soulfire Bastion Dungeon)",
+      "Tier 1: 45% chance",
+      "Tier 2: 50% chance",
+      "Tier 3: 60% chance",
+      "Tier 4: 65% chance"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Carcinization of Momentum",
+    "type": "Ring",
+    "unique_name": "Unique Coral Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Cycle of Putrescence",
+    "type": "Ring",
+    "unique_name": "Unique Ivory Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Flames of Midnight",
+    "type": "Ring",
+    "unique_name": "Unique Celestial Ring",
+    "obtained": [
+      "Harbinger of Ash (Spirits of Fire Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance",
+      "The Fading Brink Woven Echo - 10% chance (up to 22% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Font of the Erased",
+    "type": "Ring",
+    "unique_name": "Unique Gold Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Heirloom of the Last Nomad",
+    "type": "Ring",
+    "unique_name": "Unique Ruby Ring",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.04% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 2.04% chance"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Hollow Finger",
+    "type": "Ring",
+    "unique_name": "Unique Turquoise Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.45% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 5.45% chance"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Julra's Stardial",
+    "type": "Ring",
+    "unique_name": "Unique Sapphire Ring",
+    "obtained": [
+      "Chronomancer Julra (Temporal Sanctum Dungeon)",
+      "Tier 1: 100% chance",
+      "Tier 2: 50% chance",
+      "Tier 3: 41.67% chance",
+      "Tier 4: 37.04% chance"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Liath's Signet",
+    "type": "Ring",
+    "unique_name": "Unique Gold Ring",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.41% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 3.41% chance"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Oceareon",
+    "type": "Ring",
+    "unique_name": "Unique Sapphire Ring",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.02% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 1.02% chance"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Orian's Sun Seal",
+    "type": "Ring",
+    "unique_name": "Unique Gold Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Penumbra",
+    "type": "Ring",
+    "unique_name": "Unique Silver Ring",
+    "obtained": [
+      "The Crimson Blade (Arena)",
+      "Tier 1: 34% chance",
+      "Tier 2: 37% chance",
+      "Tier 3: 40% chance",
+      "Tier 4: 45% chance",
+      "Endless: 40% chance",
+      "Champions' Colosseum Woven Echo - 36.67% chance (up to 78.33% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Phantom Grip",
+    "type": "Ring",
+    "unique_name": "Unique Copper Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Quicksilver Coil",
+    "type": "Ring",
+    "unique_name": "Unique Silver Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Red Ring of Atlaria",
+    "type": "Ring",
+    "unique_name": "Unique Silver Ring",
+    "obtained": [
+      "Random Drop - Extremely rare",
+      "Rune of Ascendance - 0.14% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 0.14% chance"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Ribbons of Blood",
+    "type": "Ring",
+    "unique_name": "Unique Ruby Ring",
+    "obtained": [
+      "Abomination (Fall of the Outcasts Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Ring of the Third Eye",
+    "type": "Ring",
+    "unique_name": "Unique Copper Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Silvafrond",
+    "type": "Ring",
+    "unique_name": "Unique Turquoise Ring",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.04% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 2.04% chance"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Siphon of Anguish",
+    "type": "Ring",
+    "unique_name": "Unique Gold Ring",
+    "obtained": [
+      "Shade of Orobyss - 83.33% chance",
+      "Confluence of Oblivion Woven Echo - 116.67% chance (up to 208.33% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Sunwreath",
+    "type": "Ring",
+    "unique_name": "Unique Ruby Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Tongue of the Aberrant Seer",
+    "type": "Ring",
+    "unique_name": "Unique Jade Ring",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.82% chance",
+      "The Age of Winter Timeline (\"Unique or Set Ring\" echo rewards) - 6.82% chance"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Apostate's Sanctuary",
+    "type": "Amulet",
+    "unique_name": "Unique Bone Amulet",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.56% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 2.56% chance"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Aurora's Time Glass",
+    "type": "Amulet",
+    "unique_name": "Unique Ruby Amulet",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.42% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 1.42% chance"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Bleeding Heart",
+    "type": "Amulet",
+    "unique_name": "Unique Jade Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Chimaera's Essence",
+    "type": "Amulet",
+    "unique_name": "Unique Jade Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Death Rattle",
+    "type": "Amulet",
+    "unique_name": "Unique Turquoise Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Devotion",
+    "type": "Amulet",
+    "unique_name": "Unique Gold Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Eye of Storms",
+    "type": "Amulet",
+    "unique_name": "Unique Brass Amulet",
+    "obtained": [
+      "Lagon, God of Storms (Ending the Storm Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Frozen Eyes of Formosus",
+    "type": "Amulet",
+    "unique_name": "Unique Brass Amulet",
+    "obtained": [
+      "Formosus the Undying (Blood, Frost, and Death Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Gambler's Fallacy",
+    "type": "Amulet",
+    "unique_name": "Unique Ruby Amulet",
+    "obtained": [
+      "?"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Inheritance of the Erased",
+    "type": "Amulet",
+    "unique_name": "Unique Oracle Amulet",
+    "obtained": [
+      "Woven Firstborn (Cenotaph of Worlds Woven Echo) - 30% chance (up to 45% chance with increased item rarity)",
+      "Woven Firstborn - Cemetery of the Erased (End of Time, level 100) - 30% chance (up to 45% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Logi's Hunger",
+    "type": "Amulet",
+    "unique_name": "Unique Bone Amulet",
+    "obtained": [
+      "Volcanic Shaman (Spirits of Fire Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Mana Guide",
+    "type": "Amulet",
+    "unique_name": "Unique Amber Amulet",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4.97% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 4.97% chance"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Nihilis",
+    "type": "Amulet",
+    "unique_name": "Unique Unbound Locket",
+    "obtained": [
+      "Aberroth - 14.29% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 14.29% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 14.29% chance (drops for host only)"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Omnis",
+    "type": "Amulet",
+    "unique_name": "Unique Silver Amulet",
+    "obtained": [
+      "Shade of Orobyss (Minimum corruption 200) - 15% chance (drop chance increases with extra corruption above 200 and is higher the further the echo is from the center)",
+      "Confluence of Oblivion Woven Echo (Minimum corruption 200) - 35% chance (drop chance increases with extra corruption above 200 and is higher the further the echo is from the center)"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Orian's Eye",
+    "type": "Amulet",
+    "unique_name": "Unique Oracle Amulet",
+    "obtained": [
+      "Random Drop - Extremely rare",
+      "Rune of Ascendance - 0.21% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 0.21% chance"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Pearls of the Swine",
+    "type": "Amulet",
+    "unique_name": "Unique Bone Amulet",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4.26% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 4.26% chance"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Serpent's Milk",
+    "type": "Amulet",
+    "unique_name": "Unique Jade Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Soul Gambler's Fallacy",
+    "type": "Amulet",
+    "unique_name": "Unique Ruby Amulet",
+    "obtained": [
+      "Grin the Soul Gambler (Soulfire Bastion Dungeon)",
+      "Tier 1: 3% chance",
+      "Tier 2: 4% chance",
+      "Tier 3: 5% chance",
+      "Tier 4: 6% chance"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Strong Mind",
+    "type": "Amulet",
+    "unique_name": "Unique Copper Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Tears of the Forest",
+    "type": "Amulet",
+    "unique_name": "Unique Turquoise Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "The Claw",
+    "type": "Amulet",
+    "unique_name": "Unique Brass Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "The Confluence of Fate",
+    "type": "Amulet",
+    "unique_name": "Unique Oracle Amulet",
+    "obtained": [
+      "Rahyeh, The Black Sun (The Black Sun Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "The Fang",
+    "type": "Amulet",
+    "unique_name": "Unique Bone Amulet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 7.1% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 7.1% chance"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Xithara's Conundrum",
+    "type": "Amulet",
+    "unique_name": "Unique Ruby Amulet",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4.97% chance",
+      "The Age of Winter Timeline (\"Unique or Set Amulet\" echo rewards) - 4.97% chance"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Ambitions of an Erased Acolyte",
+    "type": "Relic",
+    "unique_name": "Unique Caged Souls",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Anchor of Oblivion",
+    "type": "Relic",
+    "unique_name": "Unique Lost Anchor",
+    "obtained": [
+      "Harton's Husk (Fall of the Empire Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Ashes of Orchirian",
+    "type": "Relic",
+    "unique_name": "Unique Overgrowth Bloom",
+    "obtained": [
+      "Grin the Soul Gambler (Soulfire Bastion Dungeon)",
+      "Tier 1: 3% chance",
+      "Tier 2: 4% chance",
+      "Tier 3: 5% chance",
+      "Tier 4: 6% chance"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Bloodkeeper's Nest",
+    "type": "Relic",
+    "unique_name": "Unique Blood Encased Hive",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 1.95% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 1.95% chance"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Box of Hydrae",
+    "type": "Relic",
+    "unique_name": "Unique Runed Box",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Code of an Erased Sentinel",
+    "type": "Relic",
+    "unique_name": "Unique Inscribed Tablet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Cruelty",
+    "type": "Relic",
+    "unique_name": "Unique Defiled Bones",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Dedication of an Erased Primalist",
+    "type": "Relic",
+    "unique_name": "Unique Dream Catcher",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Diothaen's Bloody Nib",
+    "type": "Relic",
+    "unique_name": "Unique Scrivening Quill",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.44% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 2.44% chance"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Downfall of the Righteous",
+    "type": "Relic",
+    "unique_name": "Unique Cursed Bones",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 3.9% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 3.9% chance"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Egg of the Forgotten",
+    "type": "Relic",
+    "unique_name": "Unique Stone Egg",
+    "obtained": [
+      "Nemesis (Minimum character level 60) - 20% chance (up to 60% chance at character level 100)"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Eye of Orexia",
+    "type": "Relic",
+    "unique_name": "Unique Third Eye",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Gambit of an Erased Rogue",
+    "type": "Relic",
+    "unique_name": "Unique Ivory Dice",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Grimoire of Necrotic Elixirs",
+    "type": "Relic",
+    "unique_name": "Unique Reliquary Grimoire",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Herkir's Vessel",
+    "type": "Relic",
+    "unique_name": "Unique Copper Chalice",
+    "obtained": [
+      "Volcanic Shaman (Spirits of Fire Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Kelthan Blasting Agent",
+    "type": "Relic",
+    "unique_name": "Unique Oil Vial",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Knowledge of an Erased Mage",
+    "type": "Relic",
+    "unique_name": "Unique Warding Scroll",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Melvern's Writ",
+    "type": "Relic",
+    "unique_name": "Unique Lost Journal",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 1.95% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 1.95% chance"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Murama's Hilt",
+    "type": "Relic",
+    "unique_name": "Unique Broken Hilt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Orchirian's Petals",
+    "type": "Relic",
+    "unique_name": "Unique Overgrowth Bloom",
+    "obtained": [
+      "Orchirian The Rampant"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Pillager's Gold",
+    "type": "Relic",
+    "unique_name": "Unique Stolen Tithe",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Shattered Worlds",
+    "type": "Relic",
+    "unique_name": "Unique Void Star",
+    "obtained": [
+      "Aberroth (Threshold of Eternity Woven Echo) - 20% chance (drops for host only)"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Soul of the Mountain",
+    "type": "Relic",
+    "unique_name": "Unique Living Seed",
+    "obtained": [
+      "Draal Queen (Heart of the Hive Woven Echo) - 100% chance"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Soulfire",
+    "type": "Relic",
+    "unique_name": "Unique Grave Lantern",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Stormcarved Testament",
+    "type": "Relic",
+    "unique_name": "Unique Stone Tablet",
+    "obtained": [
+      "Lagon, God of Storms (Ending the Storm Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Tome of Elements",
+    "type": "Relic",
+    "unique_name": "Unique Reliquary Text",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Twisted Heart of Uhkeiros",
+    "type": "Relic",
+    "unique_name": "Unique Dragon Heart",
+    "obtained": [
+      "Emperor of Corpses (Reign of Dragons Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Ucenui's Sphere",
+    "type": "Relic",
+    "unique_name": "Unique Navigation Orb",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Unearthed Memories",
+    "type": "Relic",
+    "unique_name": "Unique Defiled Bones",
+    "obtained": [
+      "Overgrown Graveyard Woven Echo - 100% chance"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Valdyr's Chalice",
+    "type": "Relic",
+    "unique_name": "Unique Silver Grail",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 1.95% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 1.95% chance"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Vessel of Strife",
+    "type": "Relic",
+    "unique_name": "Unique Silver Grail",
+    "obtained": [
+      "Chronomancer Julra (Temporal Sanctum Dungeon)",
+      "Tier 1: –",
+      "Tier 2: –",
+      "Tier 3: –",
+      "Tier 4: 7.41% chance"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Vortex Pennant",
+    "type": "Relic",
+    "unique_name": "Unique Mournful Pennant",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 4.88% chance",
+      "The Last Ruin Timeline (\"Unique or Set Relic\" echo rewards) - 4.88% chance"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Aaron's Will",
+    "type": "Body Armor",
+    "unique_name": "Unique Revenant Plate",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.59% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 1.59% chance"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Core of the Mountain",
+    "type": "Body Armor",
+    "unique_name": "Unique Banded Armor",
+    "obtained": [
+      "The Mountain Beneath (Lightless Arbor Dungeon)"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Dark Shroud of Cinders",
+    "type": "Body Armor",
+    "unique_name": "Unique Copper Plate",
+    "obtained": [
+      "Rahyeh, The Black Sun (The Black Sun Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Doublet of Onos Tull",
+    "type": "Body Armor",
+    "unique_name": "Unique Leather Coat",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Elecoe's Abandon",
+    "type": "Body Armor",
+    "unique_name": "Unique Wyrmhide Coat",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Exsanguinous",
+    "type": "Body Armor",
+    "unique_name": "Unique Noble Raiment",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.17% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 3.17% chance"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Fundamental Criterion",
+    "type": "Body Armor",
+    "unique_name": "Unique Vul'kaur Regalia",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Kermode's Cage",
+    "type": "Body Armor",
+    "unique_name": "Unique Beastmail",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.08% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 5.08% chance"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Mantle of the Pale Ox",
+    "type": "Body Armor",
+    "unique_name": "Unique Forest Cuirass",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Null Portent",
+    "type": "Body Armor",
+    "unique_name": "Unique Gladiator Armor",
+    "obtained": [
+      "Aberroth - 47.62% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 47.62% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 47.62% chance (drops for host only)"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Prism Wraps",
+    "type": "Body Armor",
+    "unique_name": "Unique Leather Coat",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Shroud of Obscurity",
+    "type": "Body Armor",
+    "unique_name": "Unique Witch Robes",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Static Shell",
+    "type": "Body Armor",
+    "unique_name": "Unique Banded Armor",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 3.81% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 3.81% chance"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "The Kestrel",
+    "type": "Body Armor",
+    "unique_name": "Unique Refuge Armor",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Titan Heart",
+    "type": "Body Armor",
+    "unique_name": "Unique Copper Plate",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Unstable Core",
+    "type": "Body Armor",
+    "unique_name": "Unique Arcane Regalia",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.17% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 3.17% chance"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Urzil's Pride",
+    "type": "Body Armor",
+    "unique_name": "Unique Iron Armor",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Valeroot",
+    "type": "Body Armor",
+    "unique_name": "Unique Forest Cuirass",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Wall of Nothing",
+    "type": "Body Armor",
+    "unique_name": "Unique Gladiator Armor",
+    "obtained": [
+      "Harbinger of Treason (Fall of the Empire Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Wings of Argentus",
+    "type": "Body Armor",
+    "unique_name": "Unique Gladiator Armor",
+    "obtained": [
+      "God Hunter Argentus (The Stolen Lance Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Woven Flesh",
+    "type": "Body Armor",
+    "unique_name": "Unique Gladiator Armor",
+    "obtained": [
+      "Abomination (Fall of the Outcasts Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Yrun's Wisdom",
+    "type": "Body Armor",
+    "unique_name": "Unique Banded Armor",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.35% chance",
+      "Blood, Frost, and Death Timeline (\"Unique or Set Body Armor\" echo rewards) - 6.35% chance"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Lessons of the Metropolis",
+    "type": "Boots",
+    "unique_name": "Unique Hide Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Mourningfrost",
+    "type": "Boots",
+    "unique_name": "Unique Leather Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Flight of Quetzeri",
+    "type": "Boots",
+    "unique_name": "Unique Hide Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Advent of the Erased",
+    "type": "Boots",
+    "unique_name": "Unique Iron Greaves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Darkstride",
+    "type": "Boots",
+    "unique_name": "Unique Iron Greaves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Snowdrift",
+    "type": "Boots",
+    "unique_name": "Unique Outcast Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Stormtide",
+    "type": "Boots",
+    "unique_name": "Unique Iron Greaves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Eterra's Path",
+    "type": "Boots",
+    "unique_name": "Unique Brigandine Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Roots of Vithrasil",
+    "type": "Boots",
+    "unique_name": "Unique Heoborean Boots",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4.15% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 4.15% chance"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Blood of the Exile",
+    "type": "Boots",
+    "unique_name": "Unique Iron Greaves",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 3.46% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 3.46% chance"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Foot of the Mountain",
+    "type": "Boots",
+    "unique_name": "Unique Iron Greaves",
+    "obtained": [
+      "The Mountain Beneath (Lightless Arbor Dungeon)",
+      "Tier 1: –",
+      "Tier 2: 20% chance",
+      "Tier 3: 35% chance",
+      "Tier 4: 45% chance"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Vaion's Chariot",
+    "type": "Boots",
+    "unique_name": "Unique Solarum Greaves",
+    "obtained": [
+      "Vaion the Arsenal (Arena)",
+      "Tier 1: 34% chance",
+      "Tier 2: 37% chance",
+      "Tier 3: 40% chance",
+      "Tier 4: 45% chance",
+      "Endless: 40% chance",
+      "Champions' Colosseum Woven Echo - 36.67% chance (up to 78.33% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Transient Rest",
+    "type": "Boots",
+    "unique_name": "Unique Brigandine Boots",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4.84% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 4.84% chance"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Telf'un's Mirage",
+    "type": "Boots",
+    "unique_name": "Unique Arcane Boots",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.92% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 6.92% chance"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Suloron's Step",
+    "type": "Boots",
+    "unique_name": "Unique Brigandine Boots",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.77% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 2.77% chance"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Stymied Fate",
+    "type": "Boots",
+    "unique_name": "Unique Arcane Boots",
+    "obtained": [
+      "Shade of Orobyss - 16.67% chance",
+      "Confluence of Oblivion Woven Echo - 23.33% chance (up to 41.67% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Raindance",
+    "type": "Boots",
+    "unique_name": "Unique Shrine Boots",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.42% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 2.42% chance"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Last Steps of the Living",
+    "type": "Boots",
+    "unique_name": "Unique Arcane Boots",
+    "obtained": [
+      "Formosus the Undying (Blood, Frost, and Death Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Fiery Dragon Shoes",
+    "type": "Boots",
+    "unique_name": "Unique Solarum Greaves",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.08% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 2.08% chance"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Razorfall",
+    "type": "Boots",
+    "unique_name": "Unique Vanguard Boots",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.38% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 1.38% chance"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Stealth",
+    "type": "Boots",
+    "unique_name": "Unique Brigandine Boots",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.77% chance",
+      "Spirits of Fire Timeline (\"Unique or Set Boots\" echo rewards) - 2.77% chance"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Yulia's Path",
+    "type": "Boots",
+    "unique_name": "Unique Heoborean Boots",
+    "obtained": [
+      "Heorot (The Age of Winter Timeline) - 6% chance (up to 48% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "The Inevitable",
+    "type": "Boots",
+    "unique_name": "Unique Worn Boots",
+    "obtained": [
+      "Harbinger of Fear (The Last Ruin Timeline, empowered only) - 10% chance (up to 22% chance with increased item rarity)",
+      "Aberroth - 10% chance (drops for host only)",
+      "Aberroth - 2% chance",
+      "Aberroth (Threshold of Eternity Woven Echo) - 10% chance (drops for host only)",
+      "Aberroth (Threshold of Eternity Woven Echo) - 2% chance"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Vipertail",
+    "type": "Belt",
+    "unique_name": "Unique Sash",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Jungle Queen's Chaps of Holding",
+    "type": "Belt",
+    "unique_name": "Unique Leather Belt",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 0.81% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 0.81% chance"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "The Scavenger",
+    "type": "Belt",
+    "unique_name": "Unique Leather Belt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Thorn Slinger",
+    "type": "Belt",
+    "unique_name": "Unique Leather Belt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Chains of Uleros",
+    "type": "Belt",
+    "unique_name": "Unique Noble Sash",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Communion of the Erased",
+    "type": "Belt",
+    "unique_name": "Unique Plated Belt",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 2.42% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 2.42% chance"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Harbinger of Stars",
+    "type": "Belt",
+    "unique_name": "Unique Noble Sash",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Elecoe's Innovation",
+    "type": "Belt",
+    "unique_name": "Unique Spidersilk Sash",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Orian's Descent",
+    "type": "Belt",
+    "unique_name": "Unique Plated Belt",
+    "obtained": [
+      "Seeker of the Shards (The Seeker's Summit Woven Echo) - 100% chance"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Ward Trail",
+    "type": "Belt",
+    "unique_name": "Unique Nomad Belt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Immolator's Oblation",
+    "type": "Belt",
+    "unique_name": "Unique Leather Belt",
+    "obtained": [
+      "Fire Lich Cremorus (Soulfire Bastion Dungeon)",
+      "Tier 1: –",
+      "Tier 2: –",
+      "Tier 3: 12% chance",
+      "Tier 4: 18% chance"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Omen of Thunder",
+    "type": "Belt",
+    "unique_name": "Unique Nomad Belt",
+    "obtained": [
+      "Alfrig Wolfmaw (Arena)",
+      "Tier 1: 34% chance",
+      "Tier 2: 37% chance",
+      "Tier 3: 40% chance",
+      "Tier 4: 45% chance",
+      "Endless: 40% chance",
+      "Champions' Colosseum Woven Echo - 36.67% chance (up to 78.33% chance with increased item rarity)"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Legacy of the Quiet Forest",
+    "type": "Belt",
+    "unique_name": "Unique Nomad Belt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Brewmaster's Buckle",
+    "type": "Belt",
+    "unique_name": "Unique Coinmail Belt",
+    "obtained": [
+      "The Grand Brewery Woven Echo - 100% chance"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Azurral's Fury",
+    "type": "Belt",
+    "unique_name": "Unique Noble Sash",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 8.06% chance",
+      "Fall of the Empire Timeline (\"Unique or Set Belt\" echo rewards) - 8.06% chance"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Shattered Chains",
+    "type": "Belt",
+    "unique_name": "Unique Plated Belt",
+    "obtained": [
+      "Shade of Orobyss (Minimum corruption 120) - 15% chance (drop chance increases with extra corruption above 120 and is higher the further the echo is from the center)",
+      "Confluence of Oblivion Woven Echo (Minimum corruption 120) - 45% chance (drop chance increases with extra corruption above 120 and is higher the further the echo is from the center)"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Strands of Souls",
+    "type": "Belt",
+    "unique_name": "Unique Leather Belt",
+    "obtained": [
+      "Abomination (Fall of the Outcasts Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Apex of Thought",
+    "type": "Helmet",
+    "unique_name": "Unique Runed Visage",
+    "obtained": [
+      "Random Drop - Uncommon",
+      "Rune of Ascendance - 4% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 4% chance"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Artor's Legacy",
+    "type": "Helmet",
+    "unique_name": "Unique Icewolf Pelt",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.67% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 6.67% chance"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Boneclamor Barbute",
+    "type": "Helmet",
+    "unique_name": "Unique Gladiator Helmet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.67% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 6.67% chance"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Calamity",
+    "type": "Helmet",
+    "unique_name": "Unique Jewelled Circlet",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 6.67% chance",
+      "The Black Sun Timeline (\"Unique or Set Helmet\" echo rewards) - 6.67% chance"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Call of the Tundra",
+    "type": "Helmet",
+    "unique_name": "Unique Gladiator Helmet",
+    "obtained": [
+      "Heorot (The Age of Winter Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Atrophy",
+    "type": "Gloves",
+    "unique_name": "Unique Noble Gloves",
+    "obtained": [
+      "Rahyeh, The Black Sun (The Black Sun Timeline) - 50% chance"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Li'raka's Claws",
+    "type": "Gloves",
+    "unique_name": "Unique Plated Gauntlets",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Liath's Machinations",
+    "type": "Gloves",
+    "unique_name": "Unique Noble Gloves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Maehlin's Hubris",
+    "type": "Gloves",
+    "unique_name": "Unique Plated Gauntlets",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Mortality's Grasp",
+    "type": "Gloves",
+    "unique_name": "Unique Noble Gloves",
+    "obtained": [
+      "Random Drop - Rare",
+      "Rune of Ascendance - 1.62% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 1.62% chance"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Ravenous Void",
+    "type": "Gloves",
+    "unique_name": "Unique Gluttonous Gloves",
+    "obtained": [
+      "Random Drop - Extremely rare",
+      "Rune of Ascendance - 0.11% chance",
+      "The Husk of Elder Gaspar (The Last Ruin Timeline) - up to 4.5% chance with increased item rarity",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 0.11% chance"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Ravens' Rise",
+    "type": "Gloves",
+    "unique_name": "Unique Outcast Gloves",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 1.08% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 1.08% chance"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Riverbend Grasp",
+    "type": "Gloves",
+    "unique_name": "Unique Mail Bracers",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Rule of the Simoon",
+    "type": "Gloves",
+    "unique_name": "Unique Crusader Gauntlets",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Sacrificial Embrace",
+    "type": "Gloves",
+    "unique_name": "Unique Crusader Gauntlets",
+    "obtained": [
+      "The Husk of Elder Gaspar (The Last Ruin Timeline, empowered only) - up to 45% chance with increased item rarity"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Salt the Wound",
+    "type": "Gloves",
+    "unique_name": "Unique Serrated Bracers",
+    "obtained": [
+      "Random Drop - Very rare",
+      "Rune of Ascendance - 0.81% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 0.81% chance"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Stormhide Paws",
+    "type": "Gloves",
+    "unique_name": "Unique Leather Gloves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Swaddling of the Erased",
+    "type": "Gloves",
+    "unique_name": "Unique Leather Gloves",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Wing Guards",
+    "type": "Gloves",
+    "unique_name": "Unique Plated Gauntlets",
+    "obtained": [
+      "Random Drop - Common",
+      "Rune of Ascendance - 5.39% chance",
+      "Ending the Storm Timeline (\"Unique or Set Gloves\" echo rewards) - 5.39% chance"
+    ]
+  }
+]
